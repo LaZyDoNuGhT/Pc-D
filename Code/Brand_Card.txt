@@ -1,0 +1,14 @@
+(GPU NAME)
+
+Cuda Cores:
+Memory Interface:
+Memory Type:
+Memory Bandwidth:
+Memory Size:
+TDP:
+Release Date:
+
+Average Fps In
+CSGO:
+GTA5:
+PUBG:

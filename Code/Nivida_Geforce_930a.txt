@@ -1,0 +1,14 @@
+(Nivida Geforce 930a)
+
+Cuda Cores:5
+Memory Interface:64 bit
+Memory Type:DDR3
+Memory Bandwidth:
+Memory Size:2 GB
+TDP:33w
+Release Date:Mar 13th, 2015
+
+Average Fps In
+CSGO:30-60
+GTA5:20-30
+PUBG:N/A
